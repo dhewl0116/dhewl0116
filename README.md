@@ -1,5 +1,5 @@
 # 이지민 (Jimin Lee)
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonfish6040&layout=compact&theme=dracula) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhewl01160&layout=compact&theme=dracula) |
 
 ## 학교
  + 한국디지털미디어고등학교 23기 웹 프로그래밍과
