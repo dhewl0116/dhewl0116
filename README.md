@@ -7,7 +7,7 @@
  + CS...
 
 ## Education
- + Korea Digital Media High School Web Programming 23
+ + Korea Digital Media High School (KDMHS) Web Programming 23
 
 ## Awards
   + 2023 Korea Code Fair (KCF) SW-Contest 3rd Place
