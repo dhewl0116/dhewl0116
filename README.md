@@ -1,13 +1,18 @@
 # 이지민 (Jimin Lee)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhewl0116&layout=compact&theme=dracula)
 
-## 학교
- + 한국디지털미디어고등학교 23기 웹 프로그래밍과
+## Interest
+ + Artificial Intelligence
+ + Backend Development
+ + CS...
 
-## 수상
-  + 제 5회 한국코드페어 SW공모전 중등부 은상
+## Education
+ + Korea Digital Media High School Web Programming 23
+
+## Awards
+  + 2023 Korea Code Fair (KCF) SW-Contest 3rd Place
   + 2024 Junction Asia 2nd Place (Apple Developer Academy@POSTECH)
-  + 2024 STA+C 우수상
-  + 제 6회 한국코드페어 SW공모전 고등부 대상 (국무총리상)
-  + 전국 고등학교 동아리 소프트웨어 경진대회 동상
-  + 2024 데이터 크리에이터 캠프 대상 (과기부 장관상)
+  + 2024 STA+C 3rd Place 
+  + 2024 Korea Code Fair (KCF) SW-Contest 1st Place (Prime Minister's Award)
+  + High School Club Software Competition 3rd Place
+  + 2024 Data Creator Camp 1st Place (Minister of Science and ICT's Award)
