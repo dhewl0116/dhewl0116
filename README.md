@@ -9,4 +9,5 @@
   + 2024 Junction Asia 2nd Place (Apple Developer Academy@POSTECH)
   + 2024 STA+C 우수상
   + 제 6회 한국코드페어 SW공모전 고등부 대상 (국무총리상)
-  + 2024 Data Creater Camp 대상 (과기부 장관상)
+  + 전국 고등학교 동아리 소프트웨어 경진대회 동상
+  + 2024 데이터 크리에이터 캠프 대상 (과기부 장관상)
