@@ -1,7 +1,7 @@
 # 이지민 (Jimin Lee)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhewl0116&layout=compact&theme=dracula)
 
-## Interest
+## Interests
  + Artificial Intelligence
  + Backend Development
  + CS...
